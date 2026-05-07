@@ -227,6 +227,7 @@ relation{tuple_delimiter}measurement uncertainty{tuple_delimiter}3%{tuple_delimi
 """,
 ]
 
+
 PROMPTS["summarize_entity_descriptions"] = """---Role---
 你是一名知识图谱专家，擅长数据整理与综合。
 
